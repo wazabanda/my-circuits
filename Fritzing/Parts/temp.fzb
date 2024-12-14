@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="1.0.4.2024-10-07.0.9.6-2244-ga8c6ef7c" icon="Temp.png">
+    <title>Temp</title>
+    <instances>
+        <instance moduleIdRef="esp32_new_d54e5c6122ec151400e7f24ae8fc503b_1" modelIndex="5853" path="/home/wazab/.local/share/Fritzing/Fritzing/partfactory/2316d9d168afb2341ef3635759418d72/contrib/esp32_new_d54e5c6122ec151400e7f24ae8fc503b_1.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="OLED 128x64 I2C Monochrome Display_73509f5a5c08e27d87fe0e6def9a6959_2" modelIndex="5855" path="/home/wazab/.local/share/Fritzing/Fritzing/partfactory/2316d9d168afb2341ef3635759418d72/contrib/OLED 128x64 I2C Monochrome Display_73509f5a5c08e27d87fe0e6def9a6959_2.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="DHT22_BLACK_PCB_8f30cda20dc2ef169d377f5ee20d1d5d_6" modelIndex="5851" path="/home/wazab/.local/share/Fritzing/Fritzing/partfactory/2316d9d168afb2341ef3635759418d72/contrib/DHT22_BLACK_PCB_8f30cda20dc2ef169d377f5ee20d1d5d_6.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+    </instances>
+</module>
